@@ -1,3 +1,7 @@
+/******* SETUP *********/
+Get a Key from http://www.omdbapi.com/ then just put your API Key in the fetchData call. Ready to go!!!
+
+
 ### Requirements
 
 1: API from the open movie database 🎥
